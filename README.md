@@ -9,4 +9,6 @@ Tasks to do & issues to solve related to the RSNA dataset segmentation process
 |Making sure all images have the same parameters (space, orientation and origin) as SRI24 atlas|TODO|envisager faire une version régistrée sur atlas de Muschelli|
 |Making sure all segmentations are present and segmentation masks are in the folder with original NifTI images|TODO|-|
 |Plot false positives/false negatives on predictions|TODO|-|
+|Brain extaction on all cases|TODO|-|
+
  
